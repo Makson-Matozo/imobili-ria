@@ -31,6 +31,7 @@ h3 {
     color: #ffffff;
     font-weight: 500;
     transition: color 0.3s;
+    font-size: 20px
 }
 
 /* ===================== Seção 01 ===================== */
@@ -66,6 +67,14 @@ h3 {
 .secao-03 span {
     color: #fc580c;
     font-weight: bold;
+}
+
+.secao-05 p {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    line-height: 42px;
+    text-align: justify;
+    width: 1200px;
 }
 
 /* ===================== Seção 04 ===================== */
